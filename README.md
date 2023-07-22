@@ -2,6 +2,7 @@
     <img src="https://raw.githubusercontent.com/databrickslabs/pyspark-ai/master/docs/_static/english-sdk-spark.svg"/>
 </div>
 
+>
 > To contribute to pyspark-ai, please go to https://github.com/databrickslabs/pyspark-ai/
 >
 
