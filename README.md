@@ -3,7 +3,7 @@
 </div>
 
 >
-> To contribute to pyspark-ai, please go to https://github.com/databrickslabs/pyspark-ai/
+> To contribute to pyspark-ai, please go to [github:pyspark-ai](https://github.com/pyspark-ai/pyspark-ai)
 >
 
 ## Introduction
